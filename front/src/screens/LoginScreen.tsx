@@ -7,7 +7,7 @@ import {
   FormControl
 } from '@chakra-ui/react'
 
-export default function Login() {
+export default function LoginScreen() {
   return (
     <Flex
       width="100vw"
